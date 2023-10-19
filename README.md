@@ -30,6 +30,6 @@ MIT
 
 ## Authors
 - [Temitope Adeyeha](https://github.com/Adeyeha)
-- [Uthman Jinadu](https://github.com/ridwan-salau)
+- [Uthman Jinadu](https://github.com/jinaduuthman)
 - [Ezekiel Ayotomiwa](https://github.com/ayotomiwaa)
 - [Hassan Mahmud]
