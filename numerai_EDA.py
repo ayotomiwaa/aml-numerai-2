@@ -97,3 +97,5 @@ models, predictions = reg.fit(X_train, X_test, y_train, y_test)
 
 # Saving the DataFrame to a CSV file
 models.to_csv('models_performance.csv')
+
+#Model saved to the CSv for comparison.
